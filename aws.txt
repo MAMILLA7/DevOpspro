@@ -1,3 +1,7 @@
 hello
 hai
+<<<<<<< HEAD
 brothers
+=======
+friends
+>>>>>>> e414c49d35e2dc2c0c0e6576a0b136999cf62723
